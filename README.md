@@ -25,8 +25,8 @@ This repository contains three machine learning projects completed as part of th
 ## Installation
 
 ```bash
-git clone https://github.com/[your-username]/machine-learning-projects.git
-cd machine-learning-projects
+git clone https://github.com/Elmajinos/datascience-portfolio.git
+cd datascience-portfolio
 pip install -r requirements.txt
 ```
 
